@@ -20,6 +20,10 @@ resources:
   state: free
   min-count: 10
   max-count: 10
+- type: "ovirt-quota-slice"
+  state: free
+  names:
+  - "engine.ocp-on-rhv.gcp.devcluster.openshift.com"
 - type: vsphere-quota-slice
   state: free
   min-count: 2
