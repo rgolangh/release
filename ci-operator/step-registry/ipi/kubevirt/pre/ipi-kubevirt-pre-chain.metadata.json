@@ -1,0 +1,11 @@
+{
+	"path": "ipi/kubevirt/pre/ipi-gcp-pre-chain.yaml",
+	"owners": {
+		"approvers": [
+			"bardielle",
+			"ravidbro",
+			"nirarg",
+			"rgolangh"
+		]
+	}
+}
